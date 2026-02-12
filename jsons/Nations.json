@@ -1,1 +1,45 @@
 
+[
+	{
+		"name": "Bavaria",
+		"leaderName": "Ludwig II",
+		"adjective": ["Bavarian"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Cultural",
+		"personality": "Ludwig II",
+		
+		"startIntroPart1": "Glory and nobility to you, fabled King of Bavaria, Ludwig II. Acceding at the age of 18, you would oversee the loss of Bavarian sovereignty to the German unification, yet your reign would one of lasting significance. A King beloved by his people, and a Kingdom idealised in his dreams, your lasting legacy would be your enduring love of beauty and art. The opulent castles of Neuschwanstein and Linderhoff, and your endearing patronage of the operas of Richard Wagner, still stand as testimony to an age of fantasy and fairy tales now lost, and assert the independence of the Bavarian identity of which you epitomized.",
+		"startIntroPart2": "King Ludwig, they call you mad, but your madness is the madness of dreams, of poetry and fairy stories. You imagined that the world could be otherwise, that we could build an enchanted kingdom where all seemed tedious and mundane. Oh Swan King, the world has need of your castles and knights, your dragon-haunted mountains and mystical grottoes. Come again, and give us new dreams. Ludwig, the Bavarian Kingdom stands barren of the culture and magnificence that once adorned it. Can you raise great monuments and wonders to the glory of these lands? Can you inspire works of great renown and beauty to strengthen the character of the Bavarian nation? Can you build a civilization that can stand the test of time?",
+		
+		"declaringWar": "Have at you, then! We shall write new legends of this day!",
+		"attacked": "Villain! You are as despicable as that Count Telramund! As that Fafnir!",
+		"defeated": "Perhaps we may meet on the way between the Wood and the World.",
+		"introduction": "Ahem. I am Ludwig II, King of Bavaria. I assure you, you sleep not. You have stumbled upon a dream, yes - no, a fantasy; a paradise unrivalled on all the earth - but it is a fantasy of mine into which you step. My dream in which I hope you'll stay a while.",
+		
+		"neutralHello": "Welcome, welcome, do my paintings and castle work its spells on you?",
+		"neutralLetsHearIt": ["Go on, does it have any work of arts?","Hmmm, please began","Hmmm, what can you offer me."],
+		"neutralNo": ["I refuse, try again later.","I don't think so. may we depart?","Too bad. Please go away."],
+		"neutralYes": ["Sing me the songs of your lands! Do you have swans?","Of course, maybe another tale.","Fantastic. Please go away."],
+
+		"hateHello": "What do you want now, be quick.",
+		"hateLetsHearIt": ["Speak! I don't Like being ignored.","What?","Go on, I don't have all day for you."],
+		"hateNo": ["I don't want your filth.","Huh, No and it's a bad offer.","I beg your pardon? These offers are simply unwise and unacceptable."],
+		"hateYes": ["That is fine, maybe a sculpture or paintings for Me next time","That is good enough for someone like you.","Very well... Can I be left alone now."],
+		
+		"afterPeace": "I wholeheartedly accept your peace treaty. Now can I be alone?.",
+		"tradeRequest": "I have sent to you one hundred swans- I have sent to you fifty sw- Excuse me, I have not tied them down well. I have sent you a swan. Now what can you give me in return?",
+
+		"outerColor": [116, 163, 243],
+		"innerColor": [249, 249, 249],
+		"uniqueName": "The Swan King",
+		"uniqueText": "[+2 Culture] from every World Wonder. Castle starting from the Industrial era produce [+2 Culture]. [+2 Culture] from all [Culture] buildings in cities with a [Castle]. after discovering [Flight] World Wonder and [Culture] buildings in cities with a [Castle] produce [+1 Gold, +3 Culture].",
+		"uniques": ["[+2 Culture] from every [World Wonder]","[+2 Culture] from every [Castle] <starting from the [Industrial era]>","[+2 Culture] from all [Culture] buildings <in cities with a [Castle]>","[+1 Gold, +3 Culture] from every [World Wonder] <after discovering [Flight]>","[+1 Gold, +3 Culture] from all [Culture] buildings <in cities with a [Castle]> <after discovering [Flight]>"],
+			
+		"favoredReligion": "Christianity",
+		"cities": ["Münich","Nuremberg","Bamberg","Regenburg","Bayreuth","Würzburg","Augsburg","Fürth","Aschaffenburg",
+			"Ingolstadt","Erlangen","Passau","Landshut","Straubing","Schweinfurt","Rosenheim","Freising","Dachau","Neu-Ulm",
+			"Kempten","Sonthofen","Nördlingen","Neumarkt in der Oberpfalz","Garmisch-Partenkirchen","Hof","Coburg","Weiden in der Oberpfalz","Lindau","Ansbach",
+			"Schwabach","Amberg","Starnberg","Landsberg am Lech","Günzburg","Memmingen"],
+		"spyNames": ["Ferdinand", "Johanna", "Elizabeth", "Astrid", "Anna", "Hubert", "Alois", "Natter", "George", "Arnold"],
+	}
+]
